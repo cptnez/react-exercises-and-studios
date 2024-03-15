@@ -1,0 +1,9 @@
+.recipePhotoBlock {
+    display: flex;
+    justify-content: space-evenly;
+ }
+    
+    .imageUpdates {
+       object-fit: contain;
+       width: 500px;
+    }
